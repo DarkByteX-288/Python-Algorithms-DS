@@ -1,10 +1,4 @@
 
-## 🚀 Quick Start
-
-1. Clone the repo: `git clone https://github.com/YOUR_USERNAME/Python-Algorithms-DS-Practice.git`
-2. Navigate: `cd Python-Algorithms-DS-Practice`
-3. Run any file: `python arrays/two_sum.py`
-
 ## 📚 Practice Platforms
 - [LeetCode](https://leetcode.com)
 - [HackerRank](https://hackerrank.com)
