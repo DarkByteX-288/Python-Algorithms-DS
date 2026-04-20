@@ -1,3 +1,5 @@
+# Step 1: Quick rejection for impossible cases
+        # Negative numbers can't be palindromes (would start with - when reversed)
 class Solution:
     def isPalindrome(self, x: int) -> bool:
         # Negative numbers and numbers ending in 0 (except 0) can't be palindromes
