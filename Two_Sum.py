@@ -3,6 +3,7 @@
         Return their 1-based indices."""
 class Solution:
     def twoSum(self, nums, target):
+            # Stores numbers we have already seen with their indices
         seen = {}
 
         for i, num in enumerate(nums):
