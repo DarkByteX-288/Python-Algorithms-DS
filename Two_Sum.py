@@ -1,3 +1,4 @@
+# This line finds the sum of two numbers
 """Two Sum - Hash Map Solution
         Find two numbers in array that add up to target.
         Return their 1-based indices."""
